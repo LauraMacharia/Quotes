@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Author
 Laura Macharia
 ## Description
-This app enabkes a user to view quotes,up vote or down vote and delete quotes. It also shows when a quote was published and the publisher. The app also allows a user to post a quote.
+This app enables a user to view quotes,up vote or down vote and delete quotes. It also shows when a quote was published and the publisher. The app also allows a user to post a quote.
 ## Technologies used
 Angular
 ## Development server
